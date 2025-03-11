@@ -1,0 +1,9 @@
+{
+	"name": "jayasankari",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d5f5e67-cd37-4cd3-b04d-a689e2cc3863",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
